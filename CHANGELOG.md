@@ -14,6 +14,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - Initial release
 
-[Unreleased]: https://github.com/tokoiwesley/kenyan-counties/compare/v0.1.0...master
+[Unreleased]: https://github.com/tokoiwesley/kenyan-counties/compare/v0.1.1...master
 [0.1.1]: https://github.com/tokoiwesley/kenyan-counties/compare/v0.1.0...v0.1.1
 [0.1.0]: https://github.com/tokoiwesley/kenyan-counties/releases/tag/v0.1.0
